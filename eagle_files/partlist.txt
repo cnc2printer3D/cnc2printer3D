@@ -1,0 +1,72 @@
+Partlist
+
+Exported from extruder-controller4.sch at 25.12.2011 18:06:15
+
+EAGLE Version 5.91.1 Copyright (c) 1988-2011 CadSoft
+
+Part     Value          Device                     Package   Library          Sheet
+
+5V                      LED0805                    LED-0805  SparkFun         1
+12V                     LED0805                    LED-0805  SparkFun         1
+A                       LED0805                    LED-0805  SparkFun         1
+B                       LED0805                    LED-0805  SparkFun         1
+C1       10uF           CPOL-EUE5-6                E5-6      rcl              1
+C2       100uF          CPOL-EUE5-6                E5-6      rcl              1
+C3       100n           CAP0805                    0805      SparkFun         1
+C4       10uF           CPOL-EUE5-6                E5-6      rcl              1
+C5       100nF          CAP0805                    0805      SparkFun         1
+C6       100nF          CAP0805                    0805      SparkFun         1
+C7       100n           CAP0805                    0805      SparkFun         1
+C8       100nF          CAP0805                    0805      SparkFun         1
+C9       100uF          CPOL-EUE5-6                E5-6      rcl              1
+C10      100uF          CPOL-EUE5-6                E5-6      rcl              1
+C11      100n           CAP0805                    0805      SparkFun         1
+C12      16pf           CAP0805                    0805      SparkFun         1
+C13      16pf           CAP0805                    0805      SparkFun         1
+C14      100nF          CAP0805                    0805      SparkFun         1
+D1       ES2D           ES2D                       SMB       diode            1
+D2       ES2D           ES2D                       SMB       diode            1
+DEBUG1                  LED0805                    LED-0805  SparkFun         1
+DEBUG2                  LED0805                    LED-0805  SparkFun         1
+DN                      10-XX                      B3F-10XX  switch-omron     1
+IC5      ATMEGA328      ATMEGA168                  TQFP32-08 SparkFun         1
+IC8      MAX6675        MAX6675                    SO08      reprap           1
+ICSP                    ML6                        ML6       con-harting-ml   1
+K1       351            351                        351       relay            1
+K2       351            351                        351       relay            1
+OK                      10-XX                      B3F-10XX  switch-omron     1
+PH8230E  PH7030L        PH7030L                    SOT669    transistor-power 1
+Q3       PH7030L        PH7030L                    SOT669    transistor-power 1
+Q4       16MHZ          CRYSTALHC49S               HC49/S    crystal          1
+R1       1K             RESISTOR                   0805      SparkFun         1
+R2       1K             RESISTOR                   0805      SparkFun         1
+R3       1K             RESISTOR                   0805      SparkFun         1
+R4       1K             RESISTOR                   0805      SparkFun         1
+R5       4.7K           RESISTOR                   0805      SparkFun         1
+R6       4.7K           RESISTOR                   0805      SparkFun         1
+R7       10K            RESISTOR                   0805      SparkFun         1
+R9       2.2K           RESISTOR                   0805      SparkFun         1
+R10      4k7            RESISTOR                   0805      SparkFun         1
+R11      4k7            RESISTOR                   0805      SparkFun         1
+R12      10K            RESISTOR                   0805      SparkFun         1
+R13      10K            RESISTOR                   0805      SparkFun         1
+R14      10K            RESISTOR                   0805      SparkFun         1
+R15      1K             RESISTOR                   0805      SparkFun         1
+R16      10K            RESISTOR                   0805      SparkFun         1
+R29      1K             RESISTOR                   0805      SparkFun         1
+R31      1K             RESISTOR                   0805      SparkFun         1
+RESET                   10-XX                      B3F-10XX  switch-omron     1
+SV1                     MA08-1                     MA08-1    con-lstb         1
+SV2                     MA08-1                     MA08-1    con-lstb         1
+T1       2N2222         MMBT2222ALT1-NPN-SOT23-BEC SOT23-BEC transistor       1
+T2       2N2222         MMBT2222ALT1-NPN-SOT23-BEC SOT23-BEC transistor       1
+U2       3.3V           V_REG_LDOSMD               SOT23-5   SparkFun         1
+UP                      10-XX                      B3F-10XX  switch-omron     1
+X1       MST2V          MST2V                      MSTBV2    con-phoenix-508  1
+X2       MST2V          MST2V                      MSTBV2    con-phoenix-508  1
+X3       MST2V          MST2V                      MSTBV2    con-phoenix-508  1
+X4       MST2V          MST2V                      MSTBV2    con-phoenix-508  1
+X5       MST2V          MST2V                      MSTBV2    con-phoenix-508  1
+X6       9090-4V        9090-4V                    9090-4V   con-thomas-betts 1
+X7       MST2V          MST2V                      MSTBV2    con-phoenix-508  1
+X8       MST2V          MST2V                      MSTBV2    con-phoenix-508  1
